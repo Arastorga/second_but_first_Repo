@@ -8,6 +8,7 @@ we can put thing in **"negritas"** with "**" sandwiching a phrase
 and bold leters like *this* with "*"
 
 > This is a "cita" but with ">" but here i can put a **_Bolditalic_**
+
 > I can do this with "**_" also sandwiching it
 
 ## In a good README we have:
